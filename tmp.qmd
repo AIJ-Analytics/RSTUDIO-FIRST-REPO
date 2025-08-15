@@ -1,14 +1,13 @@
 ---
 title: "Untitled"
-format: 
+format:
+  html: default
   typst:
     paperesize: a4
   docx: 
     papersize: a4
 editor: visual
 ---
-
-My first text
 
 ## Quarto
 
